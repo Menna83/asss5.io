@@ -1,0 +1,13 @@
+.item{
+    
+display: inline-block;
+width: 33%;
+text-align: center;
+}
+img{
+    width: 100%;
+}
+h3{
+    color: black;
+   
+}
